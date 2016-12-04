@@ -1,0 +1,7 @@
+#Sun Dec 04 23:30:33 CET 2016
+base.0=C\:\\Users\\ginov\\Downloads\\FilterListViewTutorial1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_6004a9e6ca950795a44c3d8919471bc6183133d8
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\ginov\\Downloads\\FilterListViewTutorial1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_aec103b011985edc652a5cc1aba4423e4cebd384\\classes.dex
+base.1=C\:\\Users\\ginov\\Downloads\\FilterListViewTutorial1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_aec103b011985edc652a5cc1aba4423e4cebd384
+file.0=C\:\\Users\\ginov\\Downloads\\FilterListViewTutorial1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_6004a9e6ca950795a44c3d8919471bc6183133d8\\classes.dex
